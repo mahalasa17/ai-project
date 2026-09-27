@@ -1,0 +1,6 @@
+{
+  "name": "Smart Quiz - Multi-Round Adaptive Test Platform",
+  "description": "An adaptive, multi-round computer science and AI testing platform with real-time feedback, analytics, and interactive review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
